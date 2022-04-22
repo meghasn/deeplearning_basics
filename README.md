@@ -6,3 +6,6 @@ cat vs dog.ipynb
 containg the code for loading an external data set
 X.pickle and y.pickle contains the data which will be later used for prediction
 convnet.ipynb contains the code for training the cat vs dog dataset loaded previously
+
+
+convnet_tensorboard.ipynb shows how to use tensorboard to evaluate a model
