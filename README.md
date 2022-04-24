@@ -10,3 +10,4 @@ convnet.ipynb contains the code for training the cat vs dog dataset loaded previ
 
 convnet_tensorboard.ipynb shows how to use tensorboard to evaluate a model
 convnet_tensorboard(1).ipynb shows how to tune the parameters by checking the tensorboard
+convnet_tensorboard_use-model.ipynb shows how to use a pretrained model to make predictions on a new dataset
